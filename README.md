@@ -119,3 +119,10 @@ O sistema exibe:
 Trabalho individual para avaliação na disciplina de **Inteligência Computacional**, com foco em **Metaheurísticas** aplicadas a um **problema de roteamento logístico**.
 
 ---
+
+> **IFTM - Instituto Federal do Triângulo Mineiro**  
+> **Curso:** Análise e Desenvolvimento de Sistemas  
+> **Disciplina:** Inteligência Computacional
+> **Período:** 6º Semestre
+
+---
