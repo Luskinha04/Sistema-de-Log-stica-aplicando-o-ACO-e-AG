@@ -120,7 +120,7 @@ Trabalho individual para avaliação na disciplina de **Inteligência Computacio
 
 ---
 
-> **IFTM - Instituto Federal do Triângulo Mineiro  
+> **IFTM - Instituto Federal do Triângulo Mineiro**  
 > **Curso:** Análise e Desenvolvimento de Sistemas  
 > **Disciplina:** Inteligência Computacional
 > **Período:** 6º Semestre
